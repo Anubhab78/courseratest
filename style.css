@@ -12,7 +12,7 @@ body{
   .navbar-default .navbar-brand {
     color: yellow;
     font-size: 30px;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 1px orange;
   }
   .navbar-default .navbar-toggle.collapsed {
     border-color: orange;
